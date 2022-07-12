@@ -1,4 +1,4 @@
-# HousinginNL
+# RentingPricesinNL
 My first documentation about current housing prices in three main cities in the Netherlands. 
 I scraped the data of NL Housing Market though Pararius(dot)com using Python and converted it into CSV file. 
 Then, using pandas_profiling env, I run three lines of python code to import ProfileReport show dataset statistics 
